@@ -1,39 +1,76 @@
-![](assets/Bottom_up.svg)
+<p align="center">
+  <img src="assets/Bottom_up.svg" alt="Decorative divider" width="100%" />
+</p>
 
-<!--   my-header-img -->
-![](./src/header_.png)
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
+<p align="center">
+  <img src="./src/header_.png" alt="Sakura Q profile header" width="100%" />
+</p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I+am+Sakura+Q;Welcome+to+my+profile;Always+learning+new+things;Machine+learning+enthusiast"
+      alt="Typing introduction"
+    />
+  </a>
+</p>
 
-<!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Sakura+Q;+Welcome+to+My+Profile!;Always+learning+new+things+;Machine+learning+enthusiast)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://www.python.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="48" width="48" />
+  </a>
+</p>
 
+## About Me
 
+- Robotics and UAV enthusiast.
+- Machine learning learner and builder.
+- Comfortable working with Python, C/C++, ROS, PX4, and practical developer tooling.
 
-<!--   my-kaggle     
-### My achievements on [kaggle](https://www.kaggle.com/andrej0marinchenko):
+## Tech Stack
 
-![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/competition/light)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/dataset/light)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/notebook/light)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/discussion/light)
--->
+### Languages & IDEs
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![PyQt](https://img.shields.io/badge/-PyQt-004400?style=flat&logo=Qt)
+![C](https://img.shields.io/badge/-C-66CC66?style=flat&logo=C&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/-C++-66CC66?style=flat&logo=C%2B%2B&logoColor=00599C)
+![Bash](https://img.shields.io/badge/-Bash-444444?style=flat&logo=GnuBash)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-<!--   my-skils -->
+### Robotics & UAV
 
-| Property                                        | Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Language / IDE**                              | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![PyQt](https://img.shields.io/badge/-PyQt-004400?style=flat&logo=Qt)&nbsp; ![C](https://img.shields.io/badge/-C-66CC66?style=flat&logo=C&logoColor=A8B9CC)&nbsp; ![C++](https://img.shields.io/badge/-C++-66CC66?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp; ![Bash](https://img.shields.io/badge/-Bash-444444?style=flat&logo=GnuBash)&nbsp;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| **Robotics/UAV**                                | ![ROS](https://img.shields.io/badge/ros-bule) ![ROS2](https://img.shields.io/badge/ros2-red) ![PX4](https://img.shields.io/badge/PX4-black) ![MAVROS](https://img.shields.io/badge/MAVROS-yellow) ![RVIZ](https://img.shields.io/badge/RVIZ-orange)   |                                                                                                                                                                                                                                                                    
+![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ros&logoColor=white)
+![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat&logo=ros&logoColor=white)
+![PX4](https://img.shields.io/badge/-PX4-000000?style=flat)
+![MAVROS](https://img.shields.io/badge/-MAVROS-yellow?style=flat)
+![RViz](https://img.shields.io/badge/-RViz-orange?style=flat)
 
-| **CI / CD**                                     | [![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com/BEPb/BEPb) ![Git](https://img.shields.io/badge/-Git-004400?style=flat&logo=git)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-444444?style=flat&logo=github)&nbsp;[![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com) [![](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/) [![](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)|
-| **Databases**                                   | ![MySQL](https://img.shields.io/badge/-MySQL-444444?style=flat&logo=MySQL)&nbsp; ![SQLite](https://img.shields.io/badge/-SQLite-444444?style=flat&logo=SQLite)&nbsp; [![](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| **Machine Learning / Deep Learning frameworks** | ![Jupyter Notebook](http://img.shields.io/badge/-Jupyter%20Notebook-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAQCAMAAAARSr4IAAACGVBMVEVhYmJdYWT/fBfzdyaqdlV2dnfcdC9udnz5dyKUaU3wdicCO2CzZzVdUkpOTk5MTk60ZzUAAP/XcC3fcivgciv/lArAajLqdSifYjrydyajnJjEjWifnp3FjGcAAACenp52dnd2dnd2dndhYmJhYmIxW3bzdybzdybzdybzdybzdyb/dxpydnl2dnd2dndhYmJgYmOda0r0dyXzdybzdybzdybudymQdmZldoJQYGmRaU7ydyfzdybzdybzdybzdybzdybzdybzdyb1dyX9dx/2dyXzdybzdybzdyb+eiPzdybzdybzdyb/ghz8eSQ3SFT/tABNTk5HTFBMTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5GTFBOTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5NTk5UUEx5WUMAOGRMTU9OTk5OTk5OTk5OTk5OTk5FTFAXQFvBajK8aTP2eCX0dyb0dyb0dybzdyb4eCXzdybzdybzdybzdybzdybzdybzdybzdybzdyb6dB3zdyXzdybzdybzdybzdybzdybzdybzdyaenp6cn6HKimD0dyXzdybzdybzdybzdybzdybzdyaenp6enp6dn6Dzdybzdyaenp6enp6enp6enp7zdyaenp7///9F1GYlAAAAsHRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADHCVho4Ax1RcnFOFz/ibFmwHXPc/thwKwkKJpfbqn1oaX+uighRdSIDAyV6TAQcAgIVHBMbKjIgEzBTHCsbLUBdQlhiTWBlR1xkaEVIR1tPbFEvF0pJNR9AFAQIMwgfKQUDBwgDBEsuMkcCLLSUKBsqT5iwNcX47N/g7cAxPmUqZq/OzaxiExPJYgQPCJjcP9lVnrgAAAClSURBVAjXVcyxSoIBAEXh+xkhEkFr6hD0AM5BkbQ3ODaEY4uDSENCS1BThI/h4v4TERG0NzZHvoAQ0SDV8FvkmS6cw5UgSTR5s83rlgUvWuA8l/Bs59eYbXhS28VdUt1H4dA9Eu1HexUdS3T/7Y81vXJ9rQicLcxoAK64hvd1fWwOeDgoy+JW3bCs56tOonnxd3ycGKt9nt7I91GShgn60yRJI/kBP8EfEEdOa6sAAAAASUVORK5CYII=&logoColor=F37626) ![Scikit-learn](http://img.shields.io/badge/-Scikit--Learn-eee?style=flat-square&logo=scikit-learn&logoColor=e26d00) ![PyTorch](http://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![TensorFlow](http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00) ![ChatGPT](https://img.shields.io/badge/-ChatGPT-444444?style=flat&logo=ChatGPT)&nbsp; ![OpenCV](https://img.shields.io/badge/-OpenCV-444444?style=flat&logo=OpenCV)&nbsp; |
+### Tools & DevOps
 
+![Markdown](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-004400?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-444444?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
+### Databases
 
-<!--   green snake -->
-![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
+![MySQL](https://img.shields.io/badge/-MySQL-444444?style=flat&logo=MySQL)
+![SQLite](https://img.shields.io/badge/-SQLite-444444?style=flat&logo=SQLite)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### Machine Learning & Computer Vision
+
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-444444?style=flat&logo=openai&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-444444?style=flat&logo=OpenCV)
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sakura-Qxh/Sakura-Qxh/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+</p>
