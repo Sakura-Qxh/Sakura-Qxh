@@ -72,5 +72,5 @@
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sakura-Qxh/Sakura-Qxh/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+  <img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
 </p>
