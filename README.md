@@ -8,10 +8,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I+am+Sakura+Q;Welcome+to+my+profile;Always+learning+new+things;UAV Controlin+learing+enthusiast"
-      alt="Typing introduction"
-    />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Hi+there%2C+I+am+Sakura+Q;Welcome+to+my+profile;Always+learning+new+things;UAV+Control+learning+enthusiast" alt="Typing introduction" />
   </a>
 </p>
 
